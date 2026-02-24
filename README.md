@@ -1,6 +1,6 @@
 # 🚗 Luxury Wheels - Rent-a-Car Management System
 
-**App Luxury Wheels** is a Python-based desktop management suite developed for a fictitious veicule rental company. This project demonstrates modular application architecture, SQL persistence, and secure credential handling.
+**App Gestão Luxury Wheels** is a Python-based desktop management suite developed for a fictitious vehicle rental company. This project demonstrates modular application architecture, SQL persistence, and secure credential handling.
 
 All data provided in the SQLite database and SQL scripts is **strictly fictitious**, generated for demonstration purposes only.
 
@@ -29,10 +29,10 @@ All data provided in the SQLite database and SQL scripts is **strictly fictitiou
 
 ## 🛠️ Tech Stack
 
-* **Core:** Python 3.x
-* **GUI:** CustomTkinter
-* **Data:** SQLite (Relational) & Pandas (Processing)
-* **DevOps Best Practices:** Environment-based configuration & Modular code structure.
+* **Language:** Python 3.x
+* **GUI Framework:** CustomTkinter (Modern UI)
+* **Data Engine:** SQLite (Relational) & Pandas (Processing)
+* **Architecture:** Modular Code Structure & Environment-based Configuration.
 
 ---
 
