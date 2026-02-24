@@ -1,0 +1,26 @@
+# Ambientes Virtuais (VENV)
+.venv/
+venv/
+ENV/
+pyvenv.cfg
+
+# Python (Ficheiros Temporários)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de Dados (Opcional)
+# Recomendo ignorar o .db e subir apenas o .sql para o GitHub
+database/*.db
+
+# IDEs (VS Code e afins)
+.vscode/
+.idea/
+
+# Distribuição (Executáveis)
+dist/
+build/
+*.spec
+
+# Variáveis de Ambiente (Segurança!)
+.env
